@@ -10,30 +10,6 @@ A simple command-line task management tool to manage your tasks and their status
 - **Change task status**: Mark tasks as "in-progress" or "done".
 - **List tasks**: View tasks filtered by status or all tasks.
 
-## Installation
-
-### Step 1: Clone the Repository
-```
-git clone https://github.com/idorombaut/task-tracker-cli.git
-cd task-tracker-cli
-```
-
-### Step 2: Set Up a Virtual Environment
-1. **Create a Virtual Environment**
-   ```
-   python -m venv venv
-   ```
-
-2. **Activate the Virtual Environment**
-   - **Windows**:
-     ```
-     .\venv\Scripts\activate
-     ```
-   - **macOS/Linux**:
-     ```
-     source venv/bin/activate
-     ```
-
 ## Usage
 The tool works by executing commands in the terminal. The commands are as follows:
 
